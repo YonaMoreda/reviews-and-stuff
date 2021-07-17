@@ -18,6 +18,7 @@ Inside the project folder, `pip3 install -r requirements.txt`</li>
 Run script using `python3 main.py`</li>
 </ol>
 
+### Sample data
 
 ![csv data display](https://github.com/YonaMoreda/reviews-and-stuff/blob/main/lol.jpg)
 
