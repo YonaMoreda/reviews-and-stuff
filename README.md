@@ -18,6 +18,8 @@ Inside the project folder, `pip3 install -r requirements.txt`</li>
 Run script using `python3 main.py`</li>
 </ol>
 
+gp-review-data.csv file is generated and saved in project folder.
+
 ### Sample data
 
 csv_header = reviewId, userName, userImage, content, score, thumbsUpCount, reviewCreatedVersion, at, replyContent, repliedAt
